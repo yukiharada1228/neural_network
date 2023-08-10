@@ -5,4 +5,5 @@
 3.  [GPT2](GPT2.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yukiharada1228/neural_network/blob/main/GPT2.ipynb)
 4.  [BERTの利用](BERTの利用.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yukiharada1228/neural_network/blob/main/BERTの利用.ipynb)
 5.  [Llama2のファインチューニング](Llama2_Finetuning.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yukiharada1228/neural_network/blob/main/Llama2_Finetuning.ipynb)
-5.  [rinnaによるチャットボット](rinnaによるチャットボット.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yukiharada1228/neural_network/blob/main/rinnaによるチャットボット.ipynb)
+6.  [rinnaによるチャットボット](rinnaによるチャットボット.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yukiharada1228/neural_network/blob/main/rinnaによるチャットボット.ipynb)
+7.  [StableLMを試しに使ってみた](StableLMを試しに使ってみた.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yukiharada1228/neural_network/blob/main/StableLMを試しに使ってみた.ipynb)
